@@ -1,6 +1,6 @@
 ## BookSearch
 
-## Lab 2
+## Lab 2 by Stephan Duroseau
 
 ### App Description
 A book search app that lets you search for books in a directory of books of different genres.
